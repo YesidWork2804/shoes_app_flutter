@@ -6,7 +6,7 @@ Para lograr una animación fluida y atractiva en la aplicación, se utilizó la 
 
 ## Capturas de pantalla
 
-Próximamente estarán disponibles las capturas de pantalla de la aplicación tanto en desktop como en dispositivos móviles.
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Créditos
 
