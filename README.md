@@ -8,7 +8,6 @@ Para lograr una animación fluida y atractiva en la aplicación, se utilizó la 
 ![Shoes](assets/screenshot/principal.jpeg)
 ![Shoes](assets/screenshot/info_shoes.jpeg)
 
-s
 ## Créditos
 
 Este proyecto fue creado gracias al curso en línea en Udemy impartido por Fernando Herrera. El curso está disponible en el siguiente enlace: https://www.udemy.com/course/flutter-disenos-y-animaciones/.
