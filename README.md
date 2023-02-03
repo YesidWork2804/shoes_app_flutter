@@ -6,8 +6,8 @@ Para lograr una animación fluida y atractiva en la aplicación, se utilizó la 
 
 ## Capturas de pantalla
 
-![This is an image]("./assets/screenshot/principal")
-![This is an image]("./assets/screenshot/info_shoes")
+![This is an image]("./assets/screenshot/principal.jpeg")
+![This is an image]("./assets/screenshot/info_shoes.jpeg")
 
 
 ## Créditos
