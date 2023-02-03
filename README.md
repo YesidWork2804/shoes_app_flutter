@@ -5,11 +5,10 @@ Este proyecto de aplicación móvil fue creado con Flutter y es una interfaz de 
 Para lograr una animación fluida y atractiva en la aplicación, se utilizó la biblioteca de animaciones `animate_do`. Además, para manejar el estado de la aplicación y asegurar una actualización fácil y eficiente de los datos, se utilizó `provider` como tienda de estado.
 
 ## Capturas de pantalla
+![Shoes](assets/screenshot/principal.jpeg)
+![Shoes](assets/screenshot/info_shoes.jpeg)
 
-![This is an image]("./assets/screenshot/principal.jpeg")
-![This is an image]("./assets/screenshot/info_shoes.jpeg")
-
-
+s
 ## Créditos
 
 Este proyecto fue creado gracias al curso en línea en Udemy impartido por Fernando Herrera. El curso está disponible en el siguiente enlace: https://www.udemy.com/course/flutter-disenos-y-animaciones/.
