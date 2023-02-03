@@ -6,7 +6,9 @@ Para lograr una animación fluida y atractiva en la aplicación, se utilizó la 
 
 ## Capturas de pantalla
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image]("./assets/principal")
+![This is an image]("./assets/info_shoes")
+
 
 ## Créditos
 
